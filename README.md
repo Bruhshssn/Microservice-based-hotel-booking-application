@@ -9,4 +9,4 @@ ENDPOINT:  DELETE: http://localhost:9090/api/booking/delete/(delete a booking us
 Please refer to the respective controller class for more info.
 PLEASE USE POSTMAN TO DEMONSTRATE THE PROJECT AS I WAS NOT ABLE TO USE SWAGGER UI (my bad). IT WAS GIVING ME MANY ERRORS AND HEADACHES. ALSO I HAD LITTLE TIME TO MAKE THIS PROJECT SO PLEASE USE POSTMAN AS CLIENT.
 Also please NOTE that you have to pass the jwt in the authorization everytime you make any request(jwt validation implemented in the gateway).
-THNAK YOU. HOPE YOU LIKE THE PROJECT.
+THANK YOU. HOPE YOU LIKE THE PROJECT.
